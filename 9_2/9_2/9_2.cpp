@@ -393,7 +393,7 @@ int BinSearch(Student* p, const int N, const string prizv, const Specialnist spe
 	int L = 0, R = N - 1, m;
 	do {
 		m = (L + R) / 2;
-		if (p[m].prizv == prizv && p[m].spec == special && p[m].avarage == kurs)
+		if (p[m].prizv == prizv && p[m].spec == special && p[m].kurs == kurs)
 			return m;
 		if ((p[m].spec < special)
 			||
@@ -402,7 +402,7 @@ int BinSearch(Student* p, const int N, const string prizv, const Specialnist spe
 			||
 			(p[m].spec == special &&
 				p[m].prizv == prizv &&
-				p[m].avarage < kurs))
+				p[m].kurs < kurs))
 		{
 			L = m + 1;
 		}
