@@ -1,0 +1,8 @@
+﻿  9_2.cpp
+C:\Users\Arsen\source\repos\9_2\9_2\9_2.cpp(42,9): warning C4101: proc: неиспользованная локальная переменная
+C:\Users\Arsen\source\repos\9_2\9_2\9_2.cpp(174,53): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\9_2\9_2\9_2.cpp(190,56): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\9_2\9_2\9_2.cpp(206,59): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\9_2\9_2\9_2.cpp(222,56): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\9_2\9_2\9_2.cpp(238,56): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  9_2.vcxproj -> C:\Users\Arsen\source\repos\9_2\Debug\9_2.exe
