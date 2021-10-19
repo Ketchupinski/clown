@@ -1,0 +1,3 @@
+﻿  IntPower.cpp
+C:\Users\Arsen\source\repos\lab1\lab1\IntPower.cpp(25): warning C4715: IntPower::Init: значение возвращается не при всех путях выполнения
+  lab1.vcxproj -> C:\Users\Arsen\source\repos\lab1\Debug\lab1.exe
