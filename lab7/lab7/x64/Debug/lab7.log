@@ -1,0 +1,5 @@
+﻿  Vector.cpp
+C:\Users\Arsen\source\repos\lab7\lab7\Vector.cpp(106,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  lab7.cpp
+  Создание кода...
+  lab7.vcxproj -> C:\Users\Arsen\source\repos\lab7\x64\Debug\lab7.exe
