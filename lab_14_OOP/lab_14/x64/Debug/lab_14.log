@@ -1,0 +1,5 @@
+﻿  lab_14.cpp
+C:\Users\Arsen\source\repos\lab_14\lab_14\Triangle.h(24,29): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Arsen\source\repos\lab_14\lab_14\Triangle.h(25,28): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Arsen\source\repos\lab_14\lab_14\Triangle.h(26,30): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  lab_14.vcxproj -> C:\Users\Arsen\source\repos\lab_14\x64\Debug\lab_14.exe
